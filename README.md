@@ -51,8 +51,7 @@ terraform-aws-infrastructure/
 ├── rds.tf
 ├── alb.tf
 ├── terraform.tfvars
-├── README.md
-└── screenshots/
+└──  README.md
 ```
 
 ---
@@ -141,18 +140,6 @@ terraform destroy
 - EC2 Instance
 - RDS Database
 - Application Load Balancer
-
----
-
-# Screenshots
-
-Add screenshots for:
-- Terraform Apply
-- AWS Console Resources
-- EC2 Dashboard
-- RDS Dashboard
-- Load Balancer
-- VPC Architecture
 
 ---
 
